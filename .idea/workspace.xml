@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e43938ae-2d05-44cb-9e44-31b206f2d224" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/testtt/testingscala.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/newpack/third.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/newpack/third.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/first$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/first$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/first.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/my$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/my$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/my.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/my.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/third$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/third$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/third$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/third$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third$delayedInit$body.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/third$delayedInit$body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/third.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/third.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/walmartdata$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/walmartdata$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/newpack/walmartdata.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/newpack/walmartdata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/second$$anon$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/second$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/second$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/walmart$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/walmart$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/walmart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testing$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testing$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testing$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testing.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1xIGpM2cj4wUM0g0GQWYN2UaerL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.testingscala">
+    <configuration name="testing" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="testing" />
+      <module name="js" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="third (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="newpack.third" />
+      <module name="js" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newpack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testingscala" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="js" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testtt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testtt" />
+      <option name="MAIN_CLASS_NAME" value="testtt.testingscala" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testtt in js" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="js" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testtt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testtt" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaTests in 'testtt'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="js" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="All in package" />
+      <option name="testPackagePath" value="testtt" />
+      <option name="workingDirectory" value="C:\Users\LVS\IdeaProjects\js" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testingscala" />
+        <item itemvalue="Application.third (1)" />
+        <item itemvalue="JUnit.testtt in js" />
+        <item itemvalue="ScalaTest.ScalaTests in 'testtt'" />
+        <item itemvalue="Application.testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e43938ae-2d05-44cb-9e44-31b206f2d224" name="Changes" comment="" />
+      <created>1630035373706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630035373706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -31,20 +31,4 @@ class testingscala {
   assertEquals(d(5.0F),2007)
  }
  }
-  //var c = mock[walmartdata]
-  //var cc = th
- /* var cc = third
-  //println(cc.json)
-  try {
-   assertEquals(third.a(1.0F), null)
-  }
-  catch{
-   case e:NullPointerException => println("null pointer exception")
-  }
-  /*assertEquals(cc.a(2.0F), 153)
-  assertEquals(cc.a(3.0F), 224)
-  assertEquals(cc.a(4.0F), 346)
-  assertEquals(cc.a(5.0F), 2007)*/
- }
-}
-*/
+
